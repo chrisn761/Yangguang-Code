@@ -1,0 +1,22 @@
+{
+  "model": "CNN-LSTM",
+  "epochs": 100,
+  "lr": 0.001,
+  "batch_size": 16,
+  "seed": 42,
+  "signature": "4f13c24ebc7f63068c7036f26d19e5a2a53d96af1c0de56ba7ed78deee0679ee",
+  "parameters": 13539,
+  "data_directory": "data81",
+  "signal_strength": 0.0,
+  "data_type": "unenhanced preprocessed source files",
+  "unit": "file_level_repeated_observation",
+  "selection": "minimum inner-validation cross entropy; outer validation used once after selection",
+  "standardization": "inner-training files only",
+  "noise": 0,
+  "dropout": 0.3,
+  "weight_decay": 0.01,
+  "label_smoothing": 0.1,
+  "sequence_truncation": false,
+  "missing_class": "strict 3class macro undefined; separate present-class BA",
+  "split": "outer StratifiedKFold over 81 files; outer-development files split 80/20 stratified for inner validation; repeated files from one simulated instance may cross folds"
+}

@@ -1,0 +1,2 @@
+model,n,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,macro_auc,weighted_auc
+Transformer,81,0.876543209877,0.812345679012,0.866376678877,0.812345679012,0.834973287347,0.874974562475,0.876543209877,0.873802439079,0.958916323731,0.968106995885

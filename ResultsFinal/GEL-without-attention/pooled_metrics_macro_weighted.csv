@@ -1,0 +1,2 @@
+model,n,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,macro_auc,weighted_auc
+GEL-without-attention,81,0.950617283951,0.935802469136,0.957941483804,0.935802469136,0.945346677997,0.952890978753,0.950617283951,0.950927936718,0.973308184728,0.970221764975

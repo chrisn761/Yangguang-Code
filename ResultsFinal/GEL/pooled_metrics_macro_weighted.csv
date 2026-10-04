@@ -1,0 +1,2 @@
+model,n,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,macro_auc,weighted_auc
+GEL,81,0.962962962963,0.943209876543,0.968783068783,0.943209876543,0.954802931274,0.963844797178,0.962962962963,0.962936555093,0.972702331962,0.988340192044

@@ -1,0 +1,2 @@
+model,n,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,macro_auc,weighted_auc
+GRU,81,0.925925925926,0.911111111111,0.941223832528,0.911111111111,0.925040101511,0.926731078905,0.925925925926,0.925901984726,0.976360310928,0.986511202561

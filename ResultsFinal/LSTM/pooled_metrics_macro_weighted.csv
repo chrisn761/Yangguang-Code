@@ -1,0 +1,2 @@
+model,n,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,macro_auc,weighted_auc
+LSTM,81,0.913580246914,0.898765432099,0.880056980057,0.898765432099,0.888528449005,0.914624881292,0.913580246914,0.913739625093,0.969444444444,0.974451303155

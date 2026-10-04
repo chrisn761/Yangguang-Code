@@ -1,0 +1,2 @@
+model,n,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,macro_auc,weighted_auc
+CNN-LSTM,81,0.864197530864,0.839506172840,0.832275132275,0.839506172840,0.834778517174,0.871075837743,0.864197530864,0.866281284309,0.972439414723,0.970450388660
